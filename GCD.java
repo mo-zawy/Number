@@ -1,5 +1,4 @@
 
-package linecircle;
 /**
  *
  * @author elsawy
